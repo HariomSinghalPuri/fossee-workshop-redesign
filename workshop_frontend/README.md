@@ -6,12 +6,28 @@ Redesign of FOSSEE/workshop_booking with a focus on performance, modern UI, resp
 
 ## Live Demo / Visual Showcase
 
-| Before (Legacy Django/Bootstrap) | After (Modern React/Tailwind) |
-| :---: | :---: |
-| ![Before Image Placeholder](https://via.placeholder.com/400x250?text=Legacy+UI) | ![After Image Placeholder](https://via.placeholder.com/400x250?text=Modern+React+UI) |
-| *Clunky tables, hidden modals, unoptimized spacing* | *Clean dashboard, responsive dataset, embedded charts* |
+### Screenshots (Modern React UI)
+![Modern React UI](./images/link-to-your-after-screenshot-1.png)
 
-> *Note: Provide actual screenshot URLs prior to submission if required by your reviewers.*
+### Feature Comparison
+
+**Before (Legacy Django/Bootstrap)**
+| Page | State Before Redesign |
+| :--- | :--- |
+| **Workshop Types** | Plain table, no search, no card layout. |
+| **Login** | Minimal card with no validation feedback. |
+| **Statistics** | Side-by-side layout breaks on mobile. |
+| **Workshop Status** | Raw tables for accepted/proposed workshops. |
+
+**After (Modern React/Tailwind)**
+| Page | UI/UX Improvement |
+| :--- | :--- |
+| **Workshop Types** | Responsive card grid with live React-powered search filter. |
+| **Login** | Inline React form validation, password visibility toggle. |
+| **Statistics** | Collapsible mobile filter sidebar, improved chart colors. |
+| **Workshop Status** | React-powered tab interface separating Accepted & Proposed. |
+
+---
 
 ## Setup Instructions
 
