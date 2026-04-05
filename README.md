@@ -7,7 +7,7 @@ Redesign of FOSSEE/workshop_booking with a focus on performance, modern UI, resp
 ## Live Demo / Visual Showcase
 
 ### Screenshots (Modern React UI)
-![Modern React UI](./images/link-to-your-after-screenshot-1.png)
+![Modern React UI](workshop_frontend/images/link-to-your-after-screenshot-1.png)
 
 ### Feature Comparison
 
